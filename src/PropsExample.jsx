@@ -39,19 +39,19 @@
 // export default PropsExample
 
 
-import React from 'react'
+// import React from 'react'
 
-const PropsExample = ({demo}) => {
-  return (
-    <div>
+// const PropsExample = ({demo}) => {
+//   return (
+//     <div>
         {/* <h1>{demo[0].name}</h1> */}
         {/* <h1>{demo[0].age}</h1> */}
 
-        <table border={1}>
+        {/* <table border={1}>
             <tr>
                 <td>name</td>
                 <td>age</td>
-            </tr>
+            </tr> */}
             {/* {
                 demo.map((item , index) => {
                     return (
@@ -62,7 +62,7 @@ const PropsExample = ({demo}) => {
                     )
                 })
             } */}
-
+{/* 
 {
                 demo.map((item , index) => (
                     
@@ -79,4 +79,4 @@ const PropsExample = ({demo}) => {
   )
 }
 
-export default PropsExample
+export default PropsExample */}
